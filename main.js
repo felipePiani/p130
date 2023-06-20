@@ -77,7 +77,7 @@ function play() {
 }
 
 function modelLoaded() {
-    console.log("Arroz.");
+    console.log('PoseNet Is Initialized');
 }
 
 function gotPoses(results) {
